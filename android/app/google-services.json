@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57592537208",
+    "project_id": "fiqh-app-311721",
+    "storage_bucket": "fiqh-app-311721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57592537208:android:d08de36468792f5353cd8d",
+        "android_client_info": {
+          "package_name": "com.example.fiqh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57592537208-fn7ket0m5ddsjmqn42jk6pq56rbnc9h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiqh_app",
+            "certificate_hash": "221b675bd41a3d5cb6cf8c13fd70df5c91a998be"
+          }
+        },
+        {
+          "client_id": "57592537208-d3tm6r7j58ufl8lq47odt52dsq0d4ko4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpsts0RgfnCo3Es75bj9qCrJifiXW60I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57592537208-d3tm6r7j58ufl8lq47odt52dsq0d4ko4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
