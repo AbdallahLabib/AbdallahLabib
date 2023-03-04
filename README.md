@@ -5,7 +5,9 @@
   </p>
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with Flutter, Swift, Java, and Firebase.
+
 - 🔭 I'm a software developer [@SoficoPharm](http://www.soficopharm.com/) in Cairo, Egypt
 - 🔍 I have 3 live apps: 
   - TamkeenHR App ([Android version](https://play.google.com/store/apps/details?id=com.q8intouch.dietlys&hl=ja&gl=IN), [iOS version](https://apps.apple.com/us/app/tamkeen-clean/id1480347160))
