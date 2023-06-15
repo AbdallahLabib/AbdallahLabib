@@ -9,7 +9,7 @@
   
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with Flutter, Swift, Java, and Firebase.
 
-- 🔭 Former mobile software developer [@SoficoPharm](http://www.soficopharm.com/](https://www.linkedin.com/company/soficopharm/)) in Cairo, Egypt
+- 🔭 Former mobile software developer [@SoficoPharm](https://www.linkedin.com/company/soficopharm/) in Cairo, Egypt
 - 🔍 I have 3 live apps: 
   - TamkeenHR App ([Android version](https://play.google.com/store/apps/details?id=com.q8intouch.dietlys&hl=ja&gl=IN), [iOS version](https://apps.apple.com/us/app/tamkeen-clean/id1480347160))
   - Dietlys App ([Android version](https://play.google.com/store/apps/details?id=com.q8intouch.dietlys&hl=ja&gl=IN), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))  
