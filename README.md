@@ -7,12 +7,5 @@
     
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with Flutter, Swift, Java, and Firebase.
 
-- Currently, I'm working as a senior flutter developer [@SimsUshare](https://simsushare.com/) in Remote, US
-- Former mobile software developer [@SoficoPharm](https://www.linkedin.com/company/soficopharm/) in Cairo, Egypt
-
-- I have 3 live apps: 
-  - TamkeenHR App ([Android version](https://play.google.com/store/apps/details?id=com.q8intouch.dietlys&hl=ja&gl=IN), [iOS version](https://apps.apple.com/us/app/tamkeen-clean/id1480347160))
-  - Dietlys App ([Android version](https://play.google.com/store/apps/details?id=com.q8intouch.dietlys&hl=ja&gl=IN), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))  
-  - Cluster App ([Android version](https://play.google.com/store/apps/details?id=net.designfy.cluster&hl=en_US&gl=US))
 
 - 💬 Ask me about **Flutter and Mobile**
